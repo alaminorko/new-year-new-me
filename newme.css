@@ -109,6 +109,11 @@ ul li:before {
     font-weight: bold;
     color: #151414;
     font-size: 25px;
+    margin: 10px;
+}
+
+.skill-description{
+    margin: 0;
 }
 
 .failures-heading {
@@ -185,4 +190,9 @@ input {
 a {
     text-decoration: none;
     color: white;
+}
+
+.social-icon {
+    width: 50px;
+    height: 50px;
 }
